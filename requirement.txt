@@ -1,0 +1,6 @@
+streamlit
+folium
+streamlit-folium
+pandas
+requests
+coordtransform  # 可选，替换手写转换函数
